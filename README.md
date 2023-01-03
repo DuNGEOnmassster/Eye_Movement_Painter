@@ -12,11 +12,13 @@ The current research on eye movement mainly relies on binocular eye trackers, wh
 
 However, this is not suitable for the home experimental environment. Therefore, we adopted a monocular line of sight estimation strategy based on facial landmarks and eyes keypoints. After tracking the eye and pupil points with the help of the pre-trained model, the coordinates were enlarged proportionally to the screen to achieve monocular line of sight estimation.
 
-In addition, with a painting program based on PyQT, we are able to 
+With opencv, we are able to
 
 1. use eye movement to control mouse movement
 
 ![](./Readme_img/Tracking_basic.png)
+
+In addition, with a painting program based on PyQT, we are able to 
 
 2. use eye clicks to control mouse click in order to choose painting tools
 
