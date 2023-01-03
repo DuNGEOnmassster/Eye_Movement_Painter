@@ -1,5 +1,10 @@
 # Eye_Movement_Painter
-Real-time Eye-animation system that can paint with eye movement.
+
+### Real-time Eye-animation system that can paint with eye movement.
+
+#### This project originates from the [HCI course design repository](https://github.com/DuNGEOnmassster/HCI_Course_Design_playground/tree/main/Group2) as an independent project.
+
+View our course reports [here](https://github.com/DuNGEOnmassster/HCI_Course_Design_playground/blob/dd4a830b6d9df7d4d12f346c083332f98e40b9b9/Group2/%E7%AC%AC%E4%BA%8C%E7%BB%84%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E5%A4%A7%E4%BD%9C%E4%B8%9A.docx)
 
 The current research on eye movement mainly relies on binocular eye trackers, which include an infrared camera aligned with the pupil used to calculate the line of sight vector and a scene camera used to estimate the observation point of the line of sight in the scene.
 
